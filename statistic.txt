@@ -1,0 +1,6 @@
+Elevator: 50f3c63a-dc76-4e51-b5fb-c5b4af200e8e. Passenger: Solomon. From: 13 floor. To: 17 floor.
+Elevator: 50f3c63a-dc76-4e51-b5fb-c5b4af200e8e. Total passengers: 1
+Elevator: fde7827b-fc33-4350-994f-d87700e47cdf. Passenger: Elena. From: 5 floor. To: 20 floor.
+Elevator: fde7827b-fc33-4350-994f-d87700e47cdf. Total passengers: 1
+Elevator: fde7827b-fc33-4350-994f-d87700e47cdf. Passenger: Mark. From: 5 floor. To: 14 floor.
+Elevator: fde7827b-fc33-4350-994f-d87700e47cdf. Total passengers: 2
